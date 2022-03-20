@@ -1,21 +1,21 @@
 
 @font-face {
   font-family: 'eUkraine Light';
-  src: url("https://github.com/spiiilka/website/blob/main/e-Ukraine-Light.otf") format("otf");
+  src: url("https://github.com/spiiilka/website/blob/main/e-Ukraine-Light.otf") format("opentype");
   font-weight: 700;
   font-display: swap;
   font-style: normal; }
 
 @font-face {
   font-family: 'eUkraine Regular';
-  src: url("https://spiiilka.github.io/website/e-Ukraine-Regular.otf") format("otf");
+  src: url("https://spiiilka.github.io/website/e-Ukraine-Regular.otf") format("opentype");
   font-weight: 400;
   font-display: swap;
   font-style: normal; }
 
 @font-face {
   font-family: 'eUkraine Medium';
-  src: url("https://spiiilka.github.io/website/e-Ukraine-Medium.otf") format("otf");
+  src: url("https://spiiilka.github.io/website/e-Ukraine-Medium.otf") format("opentype");
   font-weight: 700;
   font-display: swap;
   font-style: normal; }
