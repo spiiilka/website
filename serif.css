@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'eUkraine Light';
-  src: url("https://spiiilka.github.io/website/e-Ukraine-Thin.otf") format("otf");
+  src: url("https://github.com/spiiilka/website/blob/main/e-Ukraine-Light.otf") format("otf");
   font-weight: 300;
   font-display: swap;
   font-style: normal; }
@@ -13,15 +13,15 @@
   font-style: normal; }
 
 @font-face {
-  font-family: 'eUkraine Bold';
-  src: url("https://spiiilka.github.io/website/e-Ukraine-Bold.otf") format("otf");
+  font-family: 'eUkraine Medium';
+  src: url("https://spiiilka.github.io/website/e-Ukraine-Medium.otf") format("otf");
   font-weight: 700;
   font-display: swap;
   font-style: normal; }
 
 h1,
 h1.notion-heading {
-  font-family: "eUkraine Light", Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif !important; }
+  font-family: "eUkraine Light" !important; }
 
 h2,
 h2.notion-heading {
@@ -32,13 +32,13 @@ p.notion-text__content {
   font-family: "eUkraine Light", Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif !important; }
   p .notion-semantic-string a,
   p.notion-text__content .notion-semantic-string a {
-    font-family: "eUkraine Bold", Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif !important; }
+    font-family: "eUkraine Medium", Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif !important; }
 
 .notion-column .notion-collection .notion-collection-table__wrapper .notion-collection-table .notion-collection-table__cell.title a {
-  font-family: "eUkraine Bold", Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif !important; }
+  font-family: "eUkraine Medium", Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif !important; }
 
 .super-content .notion-column-list .notion-collection .notion-collection-table__wrapper .notion-collection-table .notion-collection-table__cell.title a {
-  font-family: "eUkraine Bold", Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif !important; }
+  font-family: "eUkraine Medium", Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif !important; }
 
 .super-content .notion-column-list p {
   margin-bottom: 2rem !important; }
@@ -50,7 +50,7 @@ div.notion-collection-card__content > div > div > span {
   font-family: "eUkraine Light", Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif !important; }
 
 .notion-callout .notion-callout__content .notion-collection .notion-collection-table__body tr a {
-  font-family: "eUkraine Bold", Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif !important; }
+  font-family: "eUkraine Medium", Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif !important; }
 
 .notion-callout .notion-callout__content .notion-collection .notion-collection-table__body .notion-collection-table__cell.text .color-green {
-  font-family: "eUkraine Bold", Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif !important; }
+  font-family: "eUkraine Medium", Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif !important; }
