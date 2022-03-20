@@ -1,13 +1,7 @@
-<!-- @font-face {
-  font-family: 'eUkraine Light';
-  src: url("https://github.com/spiiilka/website/blob/main/e-Ukraine-Light.otf") format("otf");
-  font-weight: 300;
-  font-display: swap;
-  font-style: normal; } -->
 
 @font-face {
-  font-family: 'Clash Grotesk Semibold';
-  src: url("https://mattdowney.github.io/digital/fonts/ClashGrotesk-Semibold.woff2") format("woff2"), url("https://mattdowney.github.io/digital/fonts/ClashGrotesk-Semibold.woff") format("woff");
+  font-family: 'eUkraine Light';
+  src: url("https://github.com/spiiilka/website/blob/main/e-Ukraine-Light.otf") format("otf"), url("https://github.com/spiiilka/website/blob/main/e-Ukraine-Light.otf") format("otf");
   font-weight: 700;
   font-display: swap;
   font-style: normal; }
