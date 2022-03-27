@@ -22,6 +22,9 @@
     font-style: normal;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    font-family: "eUkraine Light", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important; }
+
 h1,
 h1.notion-heading {
     font-family: "eUkraine Light", sans-serif !important;
